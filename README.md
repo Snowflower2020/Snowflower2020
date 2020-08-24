@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a place for my personal projects and learning how to use GitHub
 
 <!--
 **Snowflower2020/Snowflower2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
